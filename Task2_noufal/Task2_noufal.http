@@ -1,0 +1,6 @@
+@Task2_noufal_HostAddress = http://localhost:5072
+
+GET {{Task2_noufal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
